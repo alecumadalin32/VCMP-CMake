@@ -1,6 +1,6 @@
 ## VCMP-CMake: A step forward automating plugin development for [VC:MP](https://vc-mp.org/). Powered to you by [CMAKE](https://cmake.org/cmake/help/latest/)!
 
-![](terminal.webm)
+[terminal.webm](https://github.com/am-32/VCMP-CMake/assets/124207452/7836502f-768c-47f5-b262-1235e0373ec1)
 
 A plug & play template which automatically helps you get started with the VC:MP SDK.
 
