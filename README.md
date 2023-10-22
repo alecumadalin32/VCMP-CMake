@@ -11,7 +11,7 @@ Currently, it is kinda buggy
 | Features | Status |
 | - | - |
 | server.cfg|✔️|
-| works with VS2022 & Linux|✔️|
+| Linux works and VS2022 works too but it won't show the server on the Output monitor|⚠️|
 | basic example code w/ plugin sdk|✔️|
 | rename the library if in Debug or Release|✔️|
 | server binaries in the `server` folder|✔️|
