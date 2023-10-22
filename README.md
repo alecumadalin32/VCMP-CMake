@@ -4,9 +4,8 @@
 
 A plug & play template which automatically helps you get started with the VC:MP SDK.
 
-When it finishes building, it moves the plugin into `server/plugins`
- and automatically loads the plugin!
- 
+When it finishes building, it moves the plugin into `server/plugins` and automatically loads the plugin! Simply type `cmake . && make` on the root directory, no need for making a *build* folder
+
  Currently, it is not completed yet.
  
 | Features | Status |
@@ -16,5 +15,5 @@ When it finishes building, it moves the plugin into `server/plugins`
 | basic example code w/ plugin sdk|✔️|
 | rename the library if in Debug or Release|✔️|
 | server binaries in the `server` folder|✔️|
-| autostart the server if it's done building|❌|
 | architecture check |❌|
+
