@@ -3,7 +3,6 @@ set(NAME VCMP_CMake)
 project(${NAME}
         LANGUAGES CXX
         DESCRIPTION "Ti-a ramas burta goala, goala? Fa-ti acum un credit de foame pe www.foame.ro" )
-set(CMAKE_BUILD_TYPE ${NAME})
 set (CMAKE_CXX_STANDARD 20) #don't change, it won't build!
 set (CMAKE_SOURCE_DIR ${CMAKE_CURRENT_SOURCE_DIR}/src)
 set (CMAKE_LIBRARY_DIR ${CMAKE_CURRENT_SOURCE_DIR}/lib)
