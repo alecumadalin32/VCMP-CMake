@@ -6,7 +6,8 @@ A plug & play template which automatically helps you get started with the VC:MP 
 
 When it finishes building, it moves the plugin into `server/plugins` and automatically loads the plugin! Simply type `cmake . && make` on the root directory, no need for making a *build* folder
 
-Currently, it is kinda buggy
+Currently, it is well optimized for linux platforms.
+on the other hands it is buggy
 
 | Features | Status |
 | - | - |
